@@ -1,2 +1,1 @@
 stash a1
-stash a2
